@@ -7,4 +7,6 @@ public class Person {
     private int aaaaa;
     private int bbb;
     private int xxx;
+    private int abc;
+    private int funciton111;
 }
